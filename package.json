@@ -1,5 +1,5 @@
 {
-  "name": "ecoapp--template",
+  "name": "ecoapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -38,5 +38,9 @@
     "@types/react-native": "^0.71.4",
     "typescript": "^4.9.4"
   },
+  "author": "BrachV",
+  "license": "UNLICENSED",
+  "description": "Solution Web du projet CometLux",
+  "repository": "https://github.com/BrachV/eco-logique.git"
   "private": true
 }
